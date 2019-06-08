@@ -8,10 +8,10 @@
 # Versions
 Version | Date | Description
 ------------ | ------------- | -------------
-**V0.01** | *08/june/2019* | *Proof of Concept / Untested draft*
+**V0.01** | *08/june/2019* | *Proof of Concept / untested draft*
 
 
-# Usecase
+# Usage
 * Send Transactions (EOS and other EOSIO token)
 * Detecting last payments
 
