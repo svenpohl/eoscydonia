@@ -23,6 +23,19 @@ Version | Date | Description
 1. npm install pm2 -g
 2. pm2 start cydonia
 
+
+# Configuration
+
+## config.js
+```javascript
+exports.accounts =
+  [
+      {"account": "myeosaccount", "whitelistip": "", "keyprovider":"5KPwaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhRnp5P" , "secret":"yoursecretpassphrase"},
+      {"account": "otheraccount", "whitelistip": "", "keyprovider":"5KNxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgMw4LL" , "secret":"anothersecretpassphrase" },
+      {"account": "testtesttest", "whitelistip": "", "keyprovider":"[privatekey]" }
+  ];
+```
+
 # Curl Syntax 
 (Replace xxx.xxx.xxx.xx with your server IP-address)
 
