@@ -36,7 +36,7 @@ exports.accounts =
   ];
 ```
 
-# Curl Syntax 
+# RPC Syntax (curl)
 (Replace xxx.xxx.xxx.xx with your server IP-address)
 
 ## Ping
