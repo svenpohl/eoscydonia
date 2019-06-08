@@ -1,12 +1,12 @@
 # eoscydonia
 
-** BETA/UNTESTED/PROOF-OF-CONCEPT ** - Lightweight json-API server wallet for EOS transactions. I.E. for PHP-applications who wants to send EOS or detect Token payments.
+**BETA/UNTESTED/PROOF-OF-CONCEPT** - Lightweight json-API server wallet for EOS transactions. I.E. for PHP-applications who wants to send EOS or detect Token payments.
 08/june/2019 - V0.01
 
-** NO WARRENTY - NOT REVIEWED OR TESTED **
+**NO WARRENTY - NOT REVIEWED OR TESTED**
 
 # Versions
-* 08/june/2019 - V0.01 - *Proof of Concept / Untested draft *
+* 08/june/2019 - V0.01 - *Proof of Concept / Untested draft*
 
 
 # Usecase
