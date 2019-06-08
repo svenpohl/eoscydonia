@@ -18,6 +18,6 @@ BETA/UNTESTED/PROOF-OF-CONCEPT - Lightweight json-API server wallet for EOS tran
 (Replace xxx.xxx.xxx.xx with your server IP-address)
 
 ## Ping
-'''javascript
+```javascript
 curl --request POST  --url http://xxx.xxx.xxx.xxx:443  --data '{"action":"ping" }'
-'''
+```
