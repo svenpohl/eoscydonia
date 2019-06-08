@@ -6,7 +6,8 @@
 **NO WARRENTY - NOT REVIEWED OR TESTED**
 
 # Versions
-* 08/june/2019 - V0.01 - *Proof of Concept / Untested draft*
+Version | Date | Description
+**V0.01** | *08/june/2019* | *Proof of Concept / Untested draft*
 
 
 # Usecase
